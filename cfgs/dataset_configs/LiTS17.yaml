@@ -1,0 +1,6 @@
+NAME: LiTS17
+# CATEGORY_FILE_PATH: data/LiTS17_Test/LiTS17_Test.json
+CATEGORY_FILE_PATH: data/LiTS17/LiTS17.json
+N_POINTS: 16384
+PARTIAL_POINTS_PATH: data/LiTS17/%s/partial/%s.ply
+COMPLETE_POINTS_PATH: data/LiTS17/%s/complete/%s.ply

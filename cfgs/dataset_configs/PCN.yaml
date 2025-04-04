@@ -1,0 +1,8 @@
+NAME: PCN
+CATEGORY_FILE_PATH: data/PCN/PCN.json
+# CATEGORY_FILE_PATH: data/PCN/PCN_Test.json
+N_POINTS: 16384
+N_RENDERINGS: 8 #N_RENDERINGS 是一个键，它的值是 8。这可能表示需要渲染的次数或场景的数量。
+PARTIAL_POINTS_PATH: data/PCN/%s/partial/%s/%s/%02d.pcd
+COMPLETE_POINTS_PATH: data/PCN/%s/complete/%s/%s.pcd
+CARS: FALSE
